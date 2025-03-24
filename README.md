@@ -68,33 +68,42 @@ CERs requested from 01 Jan 2013 until 31 December 2020: 34131
 
 Serial Range: Block start: IN-5-223790681-2-2-0-5090  ---    Block end: IN-5-223824811-2-2-0-5090
 ______________
-Monitoring report: 01 Nov 2014 - 29 Feb 2016 (562 KB)
+Monitoring report: 01 Nov 2014 - 29 Feb 2016 
+
 Issuance request state: Issued
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 47231
-Serial Range: Block start: IN-5-223936340-2-2-0-5090      Block end: IN-5-223983570-2-2-0-5090
-[Full view and history]
 
+Serial Range: Block start: IN-5-223936340-2-2-0-5090   ----   Block end: IN-5-223983570-2-2-0-5090
 
-Monitoring report: 01 Mar 2016 - 31 Aug 2017 (531 KB)
+_______________
+Monitoring report: 01 Mar 2016 - 31 Aug 2017 
+
 Issuance request state: Issued
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 42965
-Serial Range: Block start: IN-5-242929790-2-2-0-5090      Block end: IN-5-242972754-2-2-0-5090
-[Full view and history]
 
+Serial Range: Block start: IN-5-242929790-2-2-0-5090 ---    Block end: IN-5-242972754-2-2-0-5090
+__________________
+Monitoring report: 01 Sep 2017 - 31 Dec 2018
 
-Monitoring report: 01 Sep 2017 - 31 Dec 2018 (436 KB)
 Issuance request state: Issued
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 42481
-Serial Range: Block start: IN-5-260290220-2-2-0-5090      Block end: IN-5-260332700-2-2-0-5090
-[Full view and history]
 
+Serial Range: Block start: IN-5-260290220-2-2-0-5090 ---     Block end: IN-5-260332700-2-2-0-5090
+______________
 
-Monitoring report: 01 Jan 2019 - 31 Mar 2020 (307 KB)
+Monitoring report: 01 Jan 2019 - 31 Mar 2020 
+
 Issuance request state: Issued
-CERs requested from 01 Jan 2013 until 31 December 2020: 46633
-Serial Range: Block start: IN-5-266730924-2-2-0-5090      Block end: IN-5-266777556-2-2-0-5090
-[Full view and history]
 
+CERs requested from 01 Jan 2013 until 31 December 2020: 46633
+
+Serial Range: Block start: IN-5-266730924-2-2-0-5090   ---   Block end: IN-5-266777556-2-2-0-5090
+
+___________
+LOCATION OF PROJECT ACTIVITY
 ____________
 S.No. / WEG Loc No. /Village/ District / State / Latitude  Longitude  
 _________
