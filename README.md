@@ -3,6 +3,9 @@ Renewable Energy Wind Power Project in Rajasthan
 
 The scale of the project activity  Large-Scale Wind Project 
 
+PP: Vish Wind Infrastructure LLP  
+(Private entity) 
+
 Host Party  INDIA 
 
 Applied methodologies and standardized baselines  ACM0002-Consolidated baseline methodology for 
@@ -32,6 +35,66 @@ Jodhpur district in the Rajasthan state of India. The nearest railway station fo
 located at Ugawa, Korwa & Kita villages (District Jaisalmer) is Jaisalmer approximately at a 
 distance of 50 Kms from site, while the nearest railway station for project activity located at Salodi 
 & Jelu villages (DistrictJodhpur) is Jodhpur approximately at a distance of 50 Kms.
+_______
+PRIOR HISTORY: 
+
+cdm issuance data
+_______________
+Monitoring report: 28 Feb 2012 - 31 Dec 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 41170
+
+Serial Range: Block start: IN-5-177624360-1-1-0-5090   ---   Block end: IN-5-177665529-1-1-0-5090
+____________
+
+Monitoring report: 01 Jan 2013 - 31 Jan 2014 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 46017
+
+Serial Range: Block start: IN-5-203605831-2-2-0-5090 ---     Block end: IN-5-203651847-2-2-0-5090
+________________
+
+Monitoring report: 01 Feb 2014 - 29 Feb 2016 (299 KB) (withdrawn)
+____________
+Monitoring report: 01 Feb 2014 - 31 Oct 2014 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 34131
+
+Serial Range: Block start: IN-5-223790681-2-2-0-5090  ---    Block end: IN-5-223824811-2-2-0-5090
+______________
+Monitoring report: 01 Nov 2014 - 29 Feb 2016 (562 KB)
+Issuance request state: Issued
+CERs requested from 01 Jan 2013 until 31 December 2020: 47231
+Serial Range: Block start: IN-5-223936340-2-2-0-5090      Block end: IN-5-223983570-2-2-0-5090
+[Full view and history]
+
+
+Monitoring report: 01 Mar 2016 - 31 Aug 2017 (531 KB)
+Issuance request state: Issued
+CERs requested from 01 Jan 2013 until 31 December 2020: 42965
+Serial Range: Block start: IN-5-242929790-2-2-0-5090      Block end: IN-5-242972754-2-2-0-5090
+[Full view and history]
+
+
+Monitoring report: 01 Sep 2017 - 31 Dec 2018 (436 KB)
+Issuance request state: Issued
+CERs requested from 01 Jan 2013 until 31 December 2020: 42481
+Serial Range: Block start: IN-5-260290220-2-2-0-5090      Block end: IN-5-260332700-2-2-0-5090
+[Full view and history]
+
+
+Monitoring report: 01 Jan 2019 - 31 Mar 2020 (307 KB)
+Issuance request state: Issued
+CERs requested from 01 Jan 2013 until 31 December 2020: 46633
+Serial Range: Block start: IN-5-266730924-2-2-0-5090      Block end: IN-5-266777556-2-2-0-5090
+[Full view and history]
+
 ____________
 S.No. / WEG Loc No. /Village/ District / State / Latitude  Longitude  
 _________
