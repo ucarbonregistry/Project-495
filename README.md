@@ -38,6 +38,14 @@ distance of 50 Kms from site, while the nearest railway station for project acti
 _______
 PRIOR HISTORY: 
 
+Project 5090 : Renewable Energy Wind Power Project in Rajasthan
+
+Authorized Participants: Vish Wind Infrastrukture LLP
+
+cdm Registration Date	28 Feb 12 (Date of registration action 18 May 12)
+
+CDM Crediting Period	28 Feb 12 - 27 Feb 22 (Fixed)
+
 cdm issuance data
 _______________
 Monitoring report: 28 Feb 2012 - 31 Dec 2012 
