@@ -37,6 +37,37 @@ distance of 50 Kms from site, while the nearest railway station for project acti
 & Jelu villages (DistrictJodhpur) is Jodhpur approximately at a distance of 50 Kms.
 _______
 PRIOR HISTORY: 
+____________
+GOLD STANDARD
+
+GS ID 5007
+
+Renewable energy wind power project in Rajasthan https://registry.goldstandard.org/projects/details/875
+
+GS ISSUANCE
+
+VINTAGE/QTY/ISSUANCE DATE
+
+2022	/4129 VER /May 29, 2023
+
+2021/	40129	VER /May 29, 2023
+
+2020/	27790 VER/May 29, 2023
+
+2020/	8653 VER/Oct 26, 2021
+
+2019/	37047 VER/Oct 26, 2021
+
+2018/	35168 VER /May 17, 2021
+
+2017/	6463 VER /May 17, 2021
+
+2017	/21220 VER/Mar 30, 2021
+
+2016/	20886 VER/ Mar 30, 2021
+
+___________________________
+UNFCCC
 
 Project 5090 : Renewable Energy Wind Power Project in Rajasthan
 
