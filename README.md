@@ -35,8 +35,38 @@ Jodhpur district in the Rajasthan state of India. The nearest railway station fo
 located at Ugawa, Korwa & Kita villages (District Jaisalmer) is Jaisalmer approximately at a 
 distance of 50 Kms from site, while the nearest railway station for project activity located at Salodi 
 & Jelu villages (DistrictJodhpur) is Jodhpur approximately at a distance of 50 Kms.
+
+According to the applicable methodology, spatial extent of this project activity includes the project
+site and all the power plants connected physically to the electricity system that the power project is
+connected to. The project activity is connected to the network of state transmission utility which falls
+in INDIAN grid. Thus, the project boundary includes all the power plants physically connected to
+the INDIAN grid.
+
+Project boundary includes all the 37 WEGs of VWIL along with the other customer WEGs connected
+to the sub-station. Project boundary includes main and backup meters for energy monitoring. Project
+activity is connected through total 4 sub-stations (2 EB (Electricity Board) sub-stations & 2 WWIL
+Pooling substations) as follows: -
+
+1) 16 MW of Project activity installed in Jodhpur District: -
+Metering is done at 132 kV billing metering point (one main & one check meter) connected at 132kV
+EB sub-station (PS-8 Narwa). There is one backup metering point (one main & one check meter)
+connected at Salodi - 132kV WWIL pooling sub-station. Project activity is connected to WWIL
+pooling sub-station (132kV, Salodi) through 33 KV line. Further a 132kV transmission line (EHV
+line) connects the WWIL pooling sub-station to state utility sub-station (132kV, PS-8) where energy
+monitoring is done.
+
+3) 13.6 MW of Project activity installed in Jaisalmer District: -
+Metering is done at 220 kV billing metering point (one main meter) connected at 220kV EB substation (Akal. There is one backup metering point (one main meter) connected at Bhu – 220 kV substation (WWIL pooling sub-station). Project activity is connected to WWIL pooling sub-station
+(220kV, Bhu) through 33 KV line. Further a 220kV transmission line (EHV line) connects the WWIL
+pooling sub-station to state utility sub-station (220kV, Akal) where energy monitoring is done. 
 _______
 PRIOR HISTORY: 
+
+The project activity is registered under Clean Development Mechanism (CDM) project with
+registration number 5090 as well as Gold Standard (GS) with reference number 5007. The crediting
+period of this project under CDM & GS was 28/02/2012 to 27/02/2022.
+
+UCR MP-01 First Issuance Period: 2 years, 10 months – 01/03/2022 to 31/12/2024
 ____________
 GOLD STANDARD
 
